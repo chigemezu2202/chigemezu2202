@@ -35,7 +35,7 @@ Advanced system for managing students, results, and academic workflows.
 
 🔗 [Classroom Backend](https://github.com/chigemezu2202/classroom-backend)
 ## 🎥 Demo
-![App Demo](./assets/classroom-backend-1.gif)
+![App Demo](./assets/classroom/classroom-backend-1.gif)
 
 ---
 

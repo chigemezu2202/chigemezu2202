@@ -47,10 +47,12 @@ Advanced system for managing students, results, and academic workflows.
 
 ---
 
-### 📊 Dashboard UI System
-Modern responsive dashboard built with React and Tailwind.
+### 📊 Dashboard  System
+Modern rest api dashboard built with nodejs, typscript and Zod validation.
 
-🔗 https://github.com/chigemezu2202/your-repo  
+🔗 [Quinteriors](https://github.com/chigemezu2202/QuinTeriors)  
+## 🎥 Demo
+![App Demo](./assets/quinteriors/quinteriors.gif)
 
 ---
 

@@ -2,9 +2,8 @@
 
 ---
 
-# 👋 Hi, I'm Chigemezu Ezimoha
-
-🚀 Full-Stack Software Engineer building scalable web applications and real-world systems.
+<h1 align="center">Hi 👋, I'm Chigemezu Ezimoha</h1>
+<h3 align="center">Full-Stack Engineer | Building Scalable Systems | Exploring AI & Data Engineering</h3>
 
 ---
 
@@ -14,10 +13,36 @@
 
 ## 🧠 About Me
 - 💻 I specialize in **React, Next.js, Node.js, and Laravel**
-- 🔐 Experienced in building **authentication systems & REST APIs**
+- 🔐 Built full **authentication systems with email verification, password recovery, and secure API design**
 - 🏗️ Focused on **clean architecture, performance, and scalability**
 - 📊 Exploring **Data Engineering & AI systems**
 - 🌍 Passionate about solving real-world problems with technology
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Authentication System
+Full-stack authentication system with email verification, password reset, and protected routes.
+
+🔗 https://github.com/chigemezu2202/your-repo  
+🎥 Demo: (add gif or image)
+
+---
+
+### 🏫 School Management System
+Advanced system for managing students, results, and academic workflows.
+
+🔗 [Classroom Backend](https://github.com/chigemezu2202/classroom-backend)
+## 🎥 Demo
+![App Demo](./assets/classroom-backend-1.gif)
+
+---
+
+### 📊 Dashboard UI System
+Modern responsive dashboard built with React and Tailwind.
+
+🔗 https://github.com/chigemezu2202/your-repo  
 
 ---
 

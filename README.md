@@ -25,8 +25,16 @@
 ### 🔐 Authentication System
 Full-stack authentication system with email verification, password reset, and protected routes.
 
-🔗 https://github.com/chigemezu2202/your-repo  
-🎥 Demo: (add gif or image)
+🔗 [Auth](https://github.com/chigemezu2202/react-node-app)  
+## 🎥 Demo
+### signup
+![App Signup](./assets/authentication/signup-desktop.gif)
+### signin
+![App Signin](./assets/authentication/signin-desktop.gif)
+### forgot
+![App Forgot](./assets/authentication/forgot-desktop.gif)
+### dashboard
+![App Dashbord](./assets/authentication/dashboard-desktop.gif)
 
 ---
 
